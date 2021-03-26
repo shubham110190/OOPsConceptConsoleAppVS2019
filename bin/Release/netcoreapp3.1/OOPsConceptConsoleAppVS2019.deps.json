@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOPsConceptConsoleAppVS2019/1.0.0": {
+        "runtime": {
+          "OOPsConceptConsoleAppVS2019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOPsConceptConsoleAppVS2019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

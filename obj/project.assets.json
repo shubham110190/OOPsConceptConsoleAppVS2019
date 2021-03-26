@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\OOPsConceptConsoleAppVS2019\\OOPsConceptConsoleAppVS2019.csproj",
+      "projectUniqueName": "E:\\TestGitProject\\OOPsConceptConsoleAppVS2019\\OOPsConceptConsoleAppVS2019.csproj",
       "projectName": "OOPsConceptConsoleAppVS2019",
-      "projectPath": "D:\\Projects\\OOPsConceptConsoleAppVS2019\\OOPsConceptConsoleAppVS2019.csproj",
+      "projectPath": "E:\\TestGitProject\\OOPsConceptConsoleAppVS2019\\OOPsConceptConsoleAppVS2019.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\OOPsConceptConsoleAppVS2019\\obj\\",
+      "outputPath": "E:\\TestGitProject\\OOPsConceptConsoleAppVS2019\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

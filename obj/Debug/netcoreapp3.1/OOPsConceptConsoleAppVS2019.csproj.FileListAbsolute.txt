@@ -9,3 +9,14 @@ D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConso
 D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.AssemblyInfo.cs
 D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.dll
 D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.pdb
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.exe
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.deps.json
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.runtimeconfig.json
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.runtimeconfig.dev.json
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.dll
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.pdb
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.csprojAssemblyReference.cache
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.AssemblyInfoInputs.cache
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.AssemblyInfo.cs
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.dll
+E:\TestGitProject\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.pdb
