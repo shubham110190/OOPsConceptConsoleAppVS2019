@@ -1,0 +1,11 @@
+D:\Projects\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.exe
+D:\Projects\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.deps.json
+D:\Projects\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.runtimeconfig.json
+D:\Projects\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.runtimeconfig.dev.json
+D:\Projects\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.dll
+D:\Projects\OOPsConceptConsoleAppVS2019\bin\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.pdb
+D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.csprojAssemblyReference.cache
+D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.AssemblyInfoInputs.cache
+D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.AssemblyInfo.cs
+D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.dll
+D:\Projects\OOPsConceptConsoleAppVS2019\obj\Debug\netcoreapp3.1\OOPsConceptConsoleAppVS2019.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30816.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPsConceptConsoleAppVS2019", "OOPsConceptConsoleAppVS2019.csproj", "{F6734FCA-5AB4-4134-91E1-818FD4AB8BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6734FCA-5AB4-4134-91E1-818FD4AB8BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6734FCA-5AB4-4134-91E1-818FD4AB8BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6734FCA-5AB4-4134-91E1-818FD4AB8BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6734FCA-5AB4-4134-91E1-818FD4AB8BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C8B4408-EF5C-47D3-ACD4-68BAC9E658A6}
+	EndGlobalSection
+EndGlobal
